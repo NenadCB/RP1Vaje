@@ -1,0 +1,6 @@
+sloj;debelina;prevodnost;naziv
+1;4;2;beton
+2;5;0,04;stiropor
+3;5;0,045;volna
+4;10;0,76;opeka
+5;1;0,2;hrast
